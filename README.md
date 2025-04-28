@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... sci fi and fantasy
 - 🌱 I’m currently learning ... front end web dev, piano, and japanese
 - 📫 How to reach me ... dm me on twitter @lsrweb
-- 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... i'm very good at baking cinnamon rolls
 
 <!---
